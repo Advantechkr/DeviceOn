@@ -22,9 +22,10 @@ B.	Server operating system support:
     
     -	Windows 10 64-bit 
     
-    - Windows 8/8.1 64-bit 
+    -	Windows 8/8.1 64-bit 
     
-    - Windows 7 SP1 64-bit 
+    -	Windows 7 SP1 64-bit 
+
     
 
 2.	DeviceOn 설치 파일 다운로드
